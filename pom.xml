@@ -9,7 +9,7 @@
     <repositories>
       <repository>
         <id>choir-repo</id>
-        <name>Helges Repo</name>
+        <name>IVArtifactory</name>
         <url>http://138.68.98.43:8082/artifactory/libs-release-local</url>
       </repository>
     </repositories>
